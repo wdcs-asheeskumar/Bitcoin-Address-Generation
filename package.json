@@ -1,0 +1,16 @@
+{
+  "name": "ethereumaddress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib": "^10.0.23",
+    "bitcore-mnemonic": "^10.0.23",
+    "crypto-js": "^4.2.0"
+  }
+}
